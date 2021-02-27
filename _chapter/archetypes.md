@@ -8,5 +8,5 @@ image_url: /images/xerox-star-desktop.png
 
 ## Βιβλιογραφία
 
-{% _bibliography --file bib-archetypes.bib %}
+{% bibliography --file bib-archetypes.bib %}
 
